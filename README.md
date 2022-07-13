@@ -1,2 +1,0 @@
-# PruebaProductoV2
-Prueba
