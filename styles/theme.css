@@ -1,0 +1,14 @@
+:root {
+    /*Colors*/
+    --primary-color: var(--blue-color-500);
+    --blue-color-500: #1E96D4;
+    --white: #fff;
+    --grey-color-300: #EEEFF2;
+    --grey-color-500: #D2D2D7;
+    --grey-color-600: #B6BCC6;
+    
+    /*fonts colors*/
+    --black: #111111;
+    --grey-color-700: #6B7280;
+    --red: #CB253C;
+}
